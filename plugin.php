@@ -6,6 +6,7 @@ Description: Replaces the standard error hanlder with one that generates a stack
 Version: 0.1.0
 Author: David Brumbaugh
 Author URI: http://codementor.io/davidbrumbaugh
+License: GPL 3 or Later
 */
 
 if ( WP_DEBUG ) {
